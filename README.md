@@ -13,7 +13,9 @@ See something similar to this and you are good to go :) <br />
 ![](https://raw.githubusercontent.com/bnair2001/DisasterComms/master/Screenshot%202019-08-12%20at%203.38.43%20PM.png) <br /> 
 
 ### Note:
-The working of this app is dependant of [this](https://apkpure.com/netshare-no-root-tethering/kha.prog.mikrotik) app being present in your device.
+##### The working of this app is dependent of [this](https://apkpure.com/netshare-no-root-tethering/kha.prog.mikrotik) app being present in your device.<br /> 
+##### So definitely download this first before you use the DisasterComms app.<br /> 
+##### This is the workaround we had to use inorder to have a ad-hoc like system.
 
 ### Credits:
 [Bharath Nair](https://github.com/bnair2001), <br />
